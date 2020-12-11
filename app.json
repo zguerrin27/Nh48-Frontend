@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Nh48",
+    "slug": "Nh48",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/Logo.png",
+    "splash": {
+      "image": "./app/assets/Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./app/assets/Logo.png"
+    },
+    "description": ""
+  }
+}
