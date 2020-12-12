@@ -74,7 +74,7 @@ export default function App() {
     <NavigationContainer theme={navigationTheme}>
       {/* <AuthNavigator /> */}
       <AppNavigator />
-    </NavigationContainer>
+    </NavigationContainer>    
     // <Screen>
     //   <AppPicker
     //     selectedItem={category}
